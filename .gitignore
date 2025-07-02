@@ -1,0 +1,5 @@
+# ── Python / Streamlit / Supabase project ─────────────
+__pycache__/
+venv/
+.env
+*.pyc
